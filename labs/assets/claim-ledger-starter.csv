@@ -1,0 +1,3 @@
+Claim_ID,Draft_Sentence,Claim_Type,Source_or_Calculation_ID,Verification_Test,Initial_Status,Reviewer,Resolution,Final_Status
+CLM-001,,QUANTITATIVE,CALC-FY2025,Recalculate from approved workpaper,PENDING,,,UNRESOLVED
+CLM-002,,LIMITATION,HLF-FACTOR-TRAINING,Compare with factor-file limitation,PENDING,,,UNRESOLVED

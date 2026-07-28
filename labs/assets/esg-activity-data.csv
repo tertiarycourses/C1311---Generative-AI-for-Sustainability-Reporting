@@ -1,0 +1,35 @@
+Row_ID,Year,Entity,Site,Metric,Raw_Value,Raw_Unit,Source_ID,Source_Row,Owner,Status
+R001,2024,HarbourLight Foods Pte Ltd,Jurong,ELECTRICITY,520,MWh,HLF-JUR-2024,Electricity total,Facilities Manager,Source supplied
+R002,2024,HarbourLight Foods Pte Ltd,Jurong,DIESEL,18000,L,HLF-JUR-2024,Diesel total,Facilities Manager,Source supplied
+R003,2024,HarbourLight Foods Pte Ltd,Jurong,NATURAL_GAS,310000,kWh,HLF-JUR-2024,Natural gas total,Facilities Manager,Source supplied
+R004,2024,HarbourLight Foods Pte Ltd,Jurong,WATER,41000,m3,HLF-JUR-2024,Water total,Facilities Manager,Source supplied
+R005,2024,HarbourLight Foods Pte Ltd,Jurong,WASTE,520,tonnes,HLF-JUR-2024,Non-hazardous waste,Operations Manager,Source supplied
+R006,2024,HarbourLight Foods Pte Ltd,Jurong,PRODUCTION,8500,tonnes,HLF-JUR-2024,Finished product,Operations Manager,Source supplied
+R007,2024,HarbourLight Foods Pte Ltd,Jurong,WORKER_HOURS,120000,hours,HLF-JUR-2024,Hours worked,Human Resources,Source supplied
+R008,2024,HarbourLight Foods Pte Ltd,Jurong,LOST_TIME_INJURIES,2,count,HLF-JUR-2024,Recorded cases,Human Resources,Source supplied
+R009,2024,HarbourLight Foods Pte Ltd,Woodlands,ELECTRICITY,280000,kWh,HLF-WDL-2024,Electricity total,Distribution Manager,Source supplied
+R010,2024,HarbourLight Foods Pte Ltd,Woodlands,DIESEL,9000,L,HLF-WDL-2024,Diesel total,Distribution Manager,Source supplied
+R011,2024,HarbourLight Foods Pte Ltd,Woodlands,NATURAL_GAS,120,MWh,HLF-WDL-2024,Natural gas total,Distribution Manager,Source supplied
+R012,2024,HarbourLight Foods Pte Ltd,Woodlands,WATER,22000,m3,HLF-WDL-2024,Water total,Distribution Manager,Source supplied
+R013,2024,HarbourLight Foods Pte Ltd,Woodlands,WASTE,240,tonnes,HLF-WDL-2024,Non-hazardous waste,Distribution Manager,Source supplied
+R014,2024,HarbourLight Foods Pte Ltd,Woodlands,PRODUCTION,4300,tonnes,HLF-WDL-2024,Distributed product,Distribution Manager,Source supplied
+R015,2024,HarbourLight Foods Pte Ltd,Woodlands,WORKER_HOURS,70000,hours,HLF-WDL-2024,Hours worked,Human Resources,Source supplied
+R016,2024,HarbourLight Foods Pte Ltd,Woodlands,LOST_TIME_INJURIES,0,count,HLF-WDL-2024,Recorded cases,Human Resources,Source supplied
+R017,2024,HarbourLight Foods Pte Ltd,Corporate,REVENUE,68.0,SGD_million,HLF-CORP-2024,Revenue total,Finance Manager,Source supplied
+R018,2025,HarbourLight Foods Pte Ltd,Jurong,ELECTRICITY,500,MWh,HLF-JUR-2025,Electricity total,Facilities Manager,Source supplied
+R019,2025,HarbourLight Foods Pte Ltd,Jurong,DIESEL,17000,L,HLF-JUR-2025,Diesel total,Facilities Manager,Source supplied
+R020,2025,HarbourLight Foods Pte Ltd,Jurong,NATURAL_GAS,295000,kWh,HLF-JUR-2025,Natural gas total,Facilities Manager,Source supplied
+R021,2025,HarbourLight Foods Pte Ltd,Jurong,WATER,40000,m3,HLF-JUR-2025,Water total,Facilities Manager,Source supplied
+R022,2025,HarbourLight Foods Pte Ltd,Jurong,WASTE,490,tonnes,HLF-JUR-2025,Non-hazardous waste,Operations Manager,Source supplied
+R023,2025,HarbourLight Foods Pte Ltd,Jurong,PRODUCTION,8800,tonnes,HLF-JUR-2025,Finished product,Operations Manager,Source supplied
+R024,2025,HarbourLight Foods Pte Ltd,Jurong,WORKER_HOURS,125000,hours,HLF-JUR-2025,Hours worked,Human Resources,Source supplied
+R025,2025,HarbourLight Foods Pte Ltd,Jurong,LOST_TIME_INJURIES,1,count,HLF-JUR-2025,Recorded cases,Human Resources,Source supplied
+R026,2025,HarbourLight Foods Pte Ltd,Woodlands,ELECTRICITY,270000,kWh,HLF-WDL-2025,Electricity total,Distribution Manager,Source supplied
+R027,2025,HarbourLight Foods Pte Ltd,Woodlands,DIESEL,8500,L,HLF-WDL-2025,Diesel total,Distribution Manager,Source supplied
+R028,2025,HarbourLight Foods Pte Ltd,Woodlands,NATURAL_GAS,118,MWh,HLF-WDL-2025,Natural gas total,Distribution Manager,Source supplied
+R029,2025,HarbourLight Foods Pte Ltd,Woodlands,WATER,21000,m3,HLF-WDL-2025,Water total,Distribution Manager,Source supplied
+R030,2025,HarbourLight Foods Pte Ltd,Woodlands,WASTE,220,tonnes,HLF-WDL-2025,Non-hazardous waste,Distribution Manager,Source supplied
+R031,2025,HarbourLight Foods Pte Ltd,Woodlands,PRODUCTION,4500,tonnes,HLF-WDL-2025,Distributed product,Distribution Manager,Source supplied
+R032,2025,HarbourLight Foods Pte Ltd,Woodlands,WORKER_HOURS,72000,hours,HLF-WDL-2025,Hours worked,Human Resources,Source supplied
+R033,2025,HarbourLight Foods Pte Ltd,Woodlands,LOST_TIME_INJURIES,1,count,HLF-WDL-2025,Recorded cases,Human Resources,Source supplied
+R034,2025,HarbourLight Foods Pte Ltd,Corporate,REVENUE,72.5,SGD_million,HLF-CORP-2025,Revenue total,Finance Manager,Source supplied

@@ -1,0 +1,11 @@
+Phase,Start,Finish,Entry_Criteria,Output,Owner,Reviewer,Escalation
+Scope and applicability,,,Reporting owner named and prior changes inventoried,,,,
+Source intake,,,Required source list approved,,,,
+Data validation,,,Received files carry source IDs,,,,
+Calculation,,,Reviewed structured rows available,,,,
+Materiality and gaps,,,Approved anchors and evidence summaries available,,,,
+Drafting,,,Approved facts and calculation IDs available,,,,
+Framework mapping,,,Current official sources checked,,,,
+Review and approval,,,Current draft and evidence index available,,,,
+Publication archive,,,Named approval recorded,,,,
+Post-cycle improvement,,,Publication archive closed,,,,

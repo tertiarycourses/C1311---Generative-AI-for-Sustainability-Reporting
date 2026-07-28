@@ -1,0 +1,8 @@
+Control_ID,Risk,Control_Activity,Frequency,Preparer,Reviewer,Evidence,Exception_Route,Status
+CTL-01,Missing source,Reconcile required and received source IDs,Each cycle,,,,Assign evidence owner,OPEN
+CTL-02,Unapproved factor,Confirm factor source and approval,Each calculation refresh,,,,Stop calculation and escalate,OPEN
+CTL-03,Formula error,Independently recalculate sampled rows,Each calculation refresh,,,,Correct and rerun affected totals,OPEN
+CTL-04,Unsupported claim,Verify material claims against ledger,Each draft version,,,,Remove or revise claim,OPEN
+CTL-05,Framework change,Reopen official URLs and record changes,Each cycle and trigger,,,,Assign standards owner,OPEN
+CTL-06,Wrong version or access,Confirm current approved files and permissions,Before review and publication,,,,Restore controlled version,OPEN
+CTL-07,Unapproved publication,Require named final publication approval,Every publication,,,,Stop release,OPEN

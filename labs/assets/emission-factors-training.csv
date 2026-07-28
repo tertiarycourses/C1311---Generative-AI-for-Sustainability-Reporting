@@ -1,0 +1,4 @@
+Factor_ID,Metric,Scope,Factor_Value,Factor_Unit,Geography,Factor_Year,Source_Type,Limitation,Official_Use_Status
+TF-ELEC-001,ELECTRICITY_KWH,Scope 2,0.408,kgCO2e/kWh,Synthetic Singapore example,2025,Synthetic course value,Training only; replace with a current approved electricity factor,NOT FOR ACTUAL INVENTORIES
+TF-DIESEL-001,DIESEL_L,Scope 1,2.68,kgCO2e/L,Synthetic example,2025,Synthetic course value,Training only; replace with a current approved fuel factor,NOT FOR ACTUAL INVENTORIES
+TF-GAS-001,NATURAL_GAS_KWH,Scope 1,0.202,kgCO2e/kWh,Synthetic example,2025,Synthetic course value,Training only; replace with a current approved fuel factor,NOT FOR ACTUAL INVENTORIES

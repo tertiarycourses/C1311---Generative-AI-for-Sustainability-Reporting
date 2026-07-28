@@ -1,0 +1,7 @@
+Source_ID,Owner,Entity_or_Site,Reporting_Period,Evidence_Type,Location,Data_Class,Completeness_Status,Reviewer
+HLF-JUR-2024,Facilities Manager,Jurong,FY2024,Site activity summary,labs/assets/esg-activity-data.csv,Synthetic operational data,,
+HLF-WDL-2024,Distribution Manager,Woodlands,FY2024,Site activity summary,labs/assets/esg-activity-data.csv,Synthetic operational data,,
+HLF-CORP-2024,Finance Manager,Corporate,FY2024,Corporate summary,labs/assets/esg-activity-data.csv,Synthetic financial data,,
+HLF-JUR-2025,Facilities Manager,Jurong,FY2025,Site activity summary,labs/assets/esg-activity-data.csv,Synthetic operational data,,
+HLF-WDL-2025,Distribution Manager,Woodlands,FY2025,Site activity summary,labs/assets/esg-activity-data.csv,Synthetic operational data,,
+HLF-CORP-2025,Finance Manager,Corporate,FY2025,Corporate summary,labs/assets/esg-activity-data.csv,Synthetic financial data,,

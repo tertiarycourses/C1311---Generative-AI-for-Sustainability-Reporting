@@ -1,0 +1,13 @@
+Stage,Task_ID,Task,Input_IDs,AI_Role,Human_Decision,Control_ID,Output_ID,Status,Reopen_Trigger
+Scope,T-01,Confirm entity period and boundary,HLF-BRIEF-01,NONE,Scope,CTL-01,REPORTING-BASIS,OPEN,Boundary or entity change
+Applicability,T-02,Check current requirements,HLF-FRAME-01,COMPARE,Framework applicability,CTL-05,FRAMEWORK-REGISTER,OPEN,Official-source change
+Source intake,T-03,Register received evidence,HLF-EVID-START,STRUCTURE,Evidence acceptance,CTL-01,EVIDENCE-REGISTER,OPEN,New or corrected source
+Validation,T-04,Normalise reviewed source rows,HLF-ACT-01,STRUCTURE,Transformation approval,CTL-01,STRUCTURED-DATA,OPEN,Data rule change
+Calculation,T-05,Calculate emissions rows,STRUCTURED-DATA,NONE,Formula and factor approval,CTL-02;CTL-03,CALC-FY2025,OPEN,Data factor or method change
+Materiality,T-06,Score candidate topics,HLF-STAKE-01,CRITIQUE,Materiality,CTL-04,MAT-GAP-01,OPEN,New stakeholder evidence
+Drafting,T-07,Draft disclosure,CALC-FY2025;MAT-GAP-01,DRAFT,Causal and narrative claim,CTL-04,DRAFT-01,OPEN,Approved evidence change
+Claim review,T-08,Verify material claims,DRAFT-01,STRUCTURE,Claim approval,CTL-04,CLAIM-LEDGER,OPEN,Draft or evidence change
+Mapping,T-09,Map report to requirements,CLAIM-LEDGER,COMPARE,Framework applicability,CTL-05,FRAMEWORK-CROSSWALK,OPEN,Requirement or claim change
+Evidence review,T-10,Test lineage chains,FRAMEWORK-CROSSWALK,NONE,Exception acceptance,CTL-01;CTL-03;CTL-04,EVIDENCE-INDEX,OPEN,Any lineage input change
+Approval,T-11,Approve publication pack,EVIDENCE-INDEX,NONE,Final publication,CTL-06;CTL-07,APPROVED-PACK,OPEN,Open control or version change
+Archive,T-12,Archive approved pack,APPROVED-PACK,NONE,Archive closure,CTL-06,FINAL-PACK,OPEN,Reissued report
